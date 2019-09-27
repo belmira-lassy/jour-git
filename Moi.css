@@ -1,0 +1,14 @@
+table
+{
+border:5px solid black;
+}
+
+tr
+{
+border:1px #333;
+}
+ 
+td
+{
+border:1px solid #333;
+}
